@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: www.bebesarah.com
+    type: external
 favicon: null
 title: Books to read
 description: 'for a good time, read this'
